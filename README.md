@@ -2,7 +2,7 @@
 
 Open-source bootstrapper for Roblox providing a FastFlag editor, FPS unlocker, Discord Rich Presence, and modular asset overrides.
 
-<img width="701" height="703" alt="images1" src="https://github.com/user-attachments/assets/20c88ee9-d060-4a77-a902-88ba12410b3c" />
+<img width="201" height="203" alt="images1" src="https://github.com/user-attachments/assets/20c88ee9-d060-4a77-a902-88ba12410b3c" />
 <img width="1000" height="580" alt="images2" src="https://github.com/user-attachments/assets/b2293403-bc7d-497f-a667-3f44dbc8d761" />
 <img width="579" height="345" alt="images3" src="https://github.com/user-attachments/assets/877c8aa4-c1a8-4d3e-80bf-bedcbcbf03d1" />
 
